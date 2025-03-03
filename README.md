@@ -1,5 +1,8 @@
 # Coffee Shop Sales Analysis & Prediction
 
+## Visualization
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=Google%20Looker%20Studio&logoColor=white)](https://lookerstudio.google.com/reporting/2bdfe105-353b-429a-8fe1-8a713eb144fd)
+
 ## 📌 Overview
 This project explores and predicts coffee shop sales using data analysis and machine learning. It consists of two main parts:
 1. **Exploratory Data Analysis (EDA):** Understanding sales trends, customer behavior, and key insights.
